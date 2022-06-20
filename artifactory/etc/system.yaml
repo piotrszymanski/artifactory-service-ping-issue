@@ -5,4 +5,4 @@ shared:
         driver: org.postgresql.Driver
         url: jdbc:postgresql://postgresql:5432/artifactory
         username: artifactory
-        password: 59baa6.aesgcm256.4WIO6C8M_JLrvci-3Me3HaSIisfrr7oUf9SyzMM4eDBqfYbB
+        password: password
