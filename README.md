@@ -1,5 +1,11 @@
 # Replication steps
 
+> Note: If you're running on a Linux machine, then it might be necessary to grant write permissions to the `artifactory` directory before running the replication steps:
+>
+> ```
+> chmod -R a+w artifactory
+> ```
+
 1. Start Artifactory using Docker compose:
 
 ```
